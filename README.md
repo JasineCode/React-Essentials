@@ -1,9 +1,10 @@
-# React-Essentials
+# Es6 Essentials 
 
-As we already know, we declare a variable in JavaScript by using the keyword var.
-Using ES6 offers us another way to declaring our variables.
+## template literals can be used to :
+Make a multi-line string.
+Create expressions.
+Put variables inside a string.
 
-# ES6 Conventions :
-Use const by default.
-Use let if you have to rebind a variable.
-Use var to signal untouched legacy code.
+## The ternary operator :
+ takes three operands, hence, the name ternary operator. It is also known as a conditional operator.
+
