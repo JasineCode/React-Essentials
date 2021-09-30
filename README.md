@@ -1,6 +1,11 @@
 # Es6 Essentials 
 
-## Arrow functions
-ES6 is all about having an optimized and minimal code.
-<br/>ES6 Arrow functions are a more concise syntax for writing function expressions.
+## Array functions
 
+It’s time for ES6 to come and save the day and provide additional predefined functions to simplify working with arrays.
+We are going to cover some of the important ones, such as:
+<br/>.find()
+<br/>.forEach()
+<br/>.filter()
+<br/>.map()
+<br/>.reduce()
