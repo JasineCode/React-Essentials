@@ -1,10 +1,6 @@
 # Es6 Essentials 
 
-## template literals can be used to :
-<br/> Make a multi-line string.
-<br/>Create expressions.
-<br/>Put variables inside a string.
-
-## The ternary operator :
- takes three operands, hence, the name ternary operator. It is also known as a conditional operator.
+## Arrow functions
+<br/>ES6 is all about having an optimized and minimal code.
+<br/>ES6 Arrow functions are a more concise syntax for writing function expressions.
 
