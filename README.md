@@ -1,11 +1,5 @@
 # Es6 Essentials 
 
-## Array functions
+## Classes and objects
 
-It’s time for ES6 to come and save the day and provide additional predefined functions to simplify working with arrays.
-We are going to cover some of the important ones, such as:
-<br/>.find()
-<br/>.forEach()
-<br/>.filter()
-<br/>.map()
-<br/>.reduce()
+Object Oriented Programming (OOP) refers to using self-contained pieces of code to develop applications. We call these self-contained pieces of code objects, better known as Classes in most OOP programming languages and Functions in JavaScript.
