@@ -1,14 +1,18 @@
-import showStudentInfo from "./libs/show-student"
-import { Student } from "./models/student"
+let student = { address: { city: 'New York', country: 'USA' } }
 
-//instanciation of two object ( students )
-let student1 = new Student(
-                            "saytama",
-                            "yagami",
-                            "saytama.png",
-                            20
-                        )
-//display full name of student1
-student1.getFullName()
-//call the helper function within the libs folder
-showStudentInfo(student1)
+console.log(student.address.city) // New York
+console.log(student.address.country) // USA
+
+let student = { address: { city: 'New York', country: 'USA' } }
+
+let city = student.address.city
+let country = student.address.country
+
+console.log(city) // New York
+console.log(country) // USA
+
+let { address } = {address:{city:"New York", country:"USA"}};
+let {city, country} = address;
+
+console.log(city) // New York
+console.log(country) // USA
